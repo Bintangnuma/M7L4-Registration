@@ -42,6 +42,4 @@ Jalankan test dari direktori utama proyek dengan perintah berikut:
 ```bash
 pytest
 ```
-## Penulis
 
-Kodland
